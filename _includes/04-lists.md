@@ -1,0 +1,3 @@
+- Travel
+- Eating
+- Outdoors
